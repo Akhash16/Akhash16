@@ -12,11 +12,11 @@ With a strong foundation in software engineering and a knack for solving complex
 - **Operating Systems:** Familiar with OS kernel concepts and low-level architecture.  
 
 ## Key Projects 📚  
-### [Sign Language Interpreter Using LSTM](https://github.com/akhash16/sign-language-interpreter)  
+### [Sign Language Interpreter Using LSTM](https://github.com/Akhash16/Sign-language-Interpretation)  
 - Built a real-time sign language interpreter using LSTM and ASL, improving communication for the hearing impaired by 30%.  
 - Developed an Android app in Java and integrated Google Cloud Translation API for multi-language support, increasing accessibility by 50%.  
 
-### [RFID-Enabled Automated Billing System](https://github.com/akhash16/rfid-billing-system)  
+### [RFID-Enabled Automated Billing System](https://github.com/Akhash16/RFID-Automated-Billing-App)  
 - Created an IoT-based billing system using NodeMCU and RFID technology, reducing checkout times by 40%.  
 - Designed a mobile app with Flutter for seamless payment and item tracking, boosting transaction rates by 30%.  
 
