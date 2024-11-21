@@ -18,7 +18,11 @@ With a strong foundation in software engineering and a knack for solving complex
 
 ### [RFID-Enabled Automated Billing System](https://github.com/Akhash16/RFID-Automated-Billing-App)  
 - Created an IoT-based billing system using NodeMCU and RFID technology, reducing checkout times by 40%.  
-- Designed a mobile app with Flutter for seamless payment and item tracking, boosting transaction rates by 30%.  
+- Designed a mobile app with Flutter for seamless payment and item tracking, boosting transaction rates by 30%.
+
+### [Chart Application](https://github.com/Akhash16/Chart-Application)  
+- Developed an interactive data visualization dashboard using **Next.js** for the frontend and **Django REST Framework** for the backend, providing various chart types like bar, line, and candlestick.  
+- Integrated **Recharts** and **React-ApexCharts** libraries for enhanced charting features, along with responsive design and TypeScript for scalability and improved user experience.  
 
 Explore more of my work on my [portfolio](https://akhash16.github.io/).  
 
