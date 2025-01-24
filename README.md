@@ -22,7 +22,13 @@ With a strong foundation in software engineering and a knack for solving complex
 
 ### [Chart Application](https://github.com/Akhash16/Chart-Application)  
 - Developed an interactive data visualization dashboard using **Next.js** for the frontend and **Django REST Framework** for the backend, providing various chart types like bar, line, and candlestick.  
-- Integrated **Recharts** and **React-ApexCharts** libraries for enhanced charting features, along with responsive design and TypeScript for scalability and improved user experience.  
+- Integrated **Recharts** and **React-ApexCharts** libraries for enhanced charting features, along with responsive design and TypeScript for scalability and improved user experience.
+
+### [Scalable Serveless Video Analysis Pipeline](https://github.com/Akhash16/Scalable-Serveless-Video-Analysis-Pipeline)
+- Designed a multi-stage serverless video analysis pipeline using **AWS Lambda** for processing 100+ videos.
+- Built a video-splitting function with **FFmpeg** to extract frames, reducing processing overhead by 40%.
+- Developed a face-recognition feature with **ResNet-34**, achieving 95% accuracy in identifying faces.
+- Automated video upload, frame extraction, and object recognition using Lambda triggers.
 
 Explore more of my work on my [portfolio](https://akhash16.github.io/).  
 
