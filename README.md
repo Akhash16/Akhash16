@@ -25,7 +25,7 @@ With a strong foundation in software engineering and a knack for solving complex
 - Optimized virtual memory management by integrating on-demand paging , reducing memory overhead by 35%
 - Implemented the Working Set algorithm for page swapping in xv6, achieving up to 40% better memory utilization and 25% fewer page faults compared to FIFO
 
-###[FlashBid - Super Fast Auction Platform](https://github.com/Akhash16/FlashBid):
+### [FlashBid - Super Fast Auction Platform](https://github.com/Akhash16/FlashBid):
 -  Architected a real-time auction platform with Next.js, Supabase Auth, WebSockets & Tailwind/Shadcn/UI—delivering 300 ms bid responses, 99.5% uptime & 92+ Lighthouse scores
 - Streamlined onboarding via multi-provider Supabase Auth (email, Google, social), cutting registration time 75% and reducing drop-offs 42%
   
