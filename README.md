@@ -25,10 +25,15 @@ With a strong foundation in software engineering and a knack for solving complex
 - Optimized virtual memory management by integrating on-demand paging , reducing memory overhead by 35%
 - Implemented the Working Set algorithm for page swapping in xv6, achieving up to 40% better memory utilization and 25% fewer page faults compared to FIFO
 
+###[FlashBid - Super Fast Auction Platform](https://github.com/Akhash16/FlashBid):
+-  Architected a real-time auction platform with Next.js, Supabase Auth, WebSockets & Tailwind/Shadcn/UI—delivering 300 ms bid responses, 99.5% uptime & 92+ Lighthouse scores
+- Streamlined onboarding via multi-provider Supabase Auth (email, Google, social), cutting registration time 75% and reducing drop-offs 42%
+  
 ### [Chart Application](https://github.com/Akhash16/Chart-Application)  
 - Developed an interactive data visualization dashboard using **Next.js** for the frontend and **Django REST Framework** for the backend, providing various chart types like bar, line, and candlestick.  
 - Integrated **Recharts** and **React-ApexCharts** libraries for enhanced charting features, along with responsive design and TypeScript for scalability and improved user experience.
-  
+
+
 
 Explore more of my work on my [portfolio](https://akhash16.github.io/).  
 
