@@ -5,9 +5,9 @@ I’m a **Master’s student in Computer Science at Arizona State University** �
 With a strong foundation in software engineering and a knack for solving complex problems, I specialize in developing innovative solutions across web, mobile, and IoT platforms. My experiences range from crafting secure backend systems to building intelligent applications that enhance user experience.  
 
 ## Technical Skills 🛠️  
-- **Languages:** Python, JavaScript, TypeScript, Java, C, C++, Dart, PHP, SQL  
+- **Languages:** Python, JavaScript, TypeScript, Java, C, C++, Dart, Golang, Rust, PHP, SQL  
 - **Frameworks & Libraries:** Django, Flutter, Node.js, Express.js, Next.js, React, Flask  
-- **Tools & Platforms:** Git, Docker, AWS, Kafka, MongoDB, Postman, Tailwind CSS, PostgreSQL, Firebase, Supabase
+- **Tools & Platforms:** Git, Docker, AWS(EC2, S3, Lambda, SQS), Kafka, MongoDB, Postman, Tailwind CSS, PostgreSQL, Firebase, Supabase
 - **Data Science & AI:** Proficient in PyTorch, TensorFlow, OpenCV, Sklearn, and Matplotlib for machine learning and data analysis.  
 - **Operating Systems:** Familiar with OS kernel concepts and low-level architecture.  
 
