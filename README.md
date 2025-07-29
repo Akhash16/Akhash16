@@ -1,62 +1,59 @@
-# 👋 Hi, I'm Akhash Senthil Kumar!  
-I’m a **Master’s student in Computer Science at Arizona State University** 🌵 and a software engineer passionate about building robust, scalable systems that make a difference in the real world.  
+# 👋 Hey, I’m Akhash!
 
-## About Me  
-With a strong foundation in software engineering and a knack for solving complex problems, I specialize in developing innovative solutions across web, mobile, and IoT platforms. My experiences range from crafting secure backend systems to building intelligent applications that enhance user experience.  
+I’m a software engineer and recent CS grad from ASU 🌵 who loves building fast, reliable systems that actually solve real problems.
 
-## Technical Skills 🛠️  
-- **Languages:** Python, JavaScript, TypeScript, Java, C, C++, Dart, Golang, Rust, PHP, SQL  
-- **Frameworks & Libraries:** Django, Flutter, Node.js, Express.js, Next.js, React, Flask  
-- **Tools & Platforms:** Git, Docker, AWS(EC2, S3, Lambda, SQS), Kafka, MongoDB, Postman, Tailwind CSS, PostgreSQL, Firebase, Supabase
-- **Data Science & AI:** Proficient in PyTorch, TensorFlow, OpenCV, Sklearn, and Matplotlib for machine learning and data analysis.  
-- **Operating Systems:** Familiar with OS kernel concepts and low-level architecture.  
+## About Me
 
-## Key Projects 📚  
+I’ve worked with early-stage startups and shipped everything from backend APIs and data pipelines to cloud-based AI tools. Whether it’s distributed systems, ML, or just clean code, I’m all in on making things work well and scale better.
 
-### [Scalable Serveless Video Analysis Pipeline]()
-- Designed a multi-stage serverless video analysis pipeline using **AWS Lambda** for processing 100+ videos.
-- Built a video-splitting function with **FFmpeg** to extract frames, reducing processing overhead by 40%.
-- Developed a face-recognition feature with **ResNet-34**, achieving 95% accuracy in identifying faces.
-- Automated video upload, frame extraction, and object recognition using Lambda triggers.
-  
-### [Operating Systems Kernel Development]()
-- Created a secure bootloader with SHA-256 and RISC-V PMP, improving boot integrity by 95%
-- Implemented RISC-V trap-and-emulate virtualization, enabling seamless privilege transitions across U/S/M modes
-- Optimized virtual memory management by integrating on-demand paging , reducing memory overhead by 35%
-- Implemented the Working Set algorithm for page swapping in xv6, achieving up to 40% better memory utilization and 25% fewer page faults compared to FIFO
+## Tech I Work With 🛠️
 
-### [FlashBid - Super Fast Auction Platform](https://github.com/Akhash16/FlashBid):
--  Architected a real-time auction platform with Next.js, Supabase Auth, WebSockets & Tailwind/Shadcn/UI—delivering 300 ms bid responses, 99.5% uptime & 92+ Lighthouse scores
-- Streamlined onboarding via multi-provider Supabase Auth (email, Google, social), cutting registration time 75% and reducing drop-offs 42%
-  
-### [Chart Application](https://github.com/Akhash16/Chart-Application)  
-- Developed an interactive data visualization dashboard using **Next.js** for the frontend and **Django REST Framework** for the backend, providing various chart types like bar, line, and candlestick.  
-- Integrated **Recharts** and **React-ApexCharts** libraries for enhanced charting features, along with responsive design and TypeScript for scalability and improved user experience.
+- **Languages:** Python, TypeScript, Java, C++, SQL
+- **Frameworks:** Django, React, Next.js, Node.js, Flask, Flutter
+- **Cloud & Tools:** AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Kafka
+- **AI/ML:** PyTorch, TensorFlow, OpenCV 
 
 
+Explore more of my work on my [portfolio](https://akhash.dev).  
 
-Explore more of my work on my [portfolio](https://akhash16.github.io/).  
+## Experience 💼
 
-## Experience 💼  
-### **Back-End Engineer Intern** @ Flow Global Software Technologies  
-- Developed scalable APIs and integrated CRM systems, increasing sales efficiency by 30%.  
-- Led a team to enhance security and optimize backend performance, improving system reliability by 20%.  
+### Fullstack Engineer Intern @ Flow Global Software Technologies 
+*Austin, TX | Jun 2025 - Present*
 
-### **Software Developer Intern** @ AnDnR Soft Solutions  
-- Built a real-time boat monitoring system with Flutter and IoT devices, reducing theft by 66%.  
-- Created Python-based dashboards for real-time data analysis, reducing inspection time by 30%.  
+* Built a Kafka-based data pipeline handling over 1M lead records in real time, boosting throughput by 60%.
+* Worked across the stack to ship fast, scalable systems in a startup environment.
 
-### **Machine Learning Engineer Intern** @ Verzeo Edutech  
-- Designed image detection systems with ResNet and LSH, improving performance by 25%.  
-- Conducted sentiment analysis on 50,000+ tweets, driving content strategy improvements with a 20% increase in retention.  
+### Backend Engineer Intern @ Flow Global Software Technologies
+*Austin, TX | May 2024 - Aug 2024*
 
-## Professional Goals 🚀  
-- **Innovative Development:** Focused on creating scalable, impactful tech solutions across industries.  
-- **Continuous Growth:** Dedicated to enhancing my technical expertise and exploring emerging technologies.  
+* Developed REST APIs using Python and Django for CRM activity tracking, secured with OAuth 2.0.
+* Deployed AI models on AWS Lambda and set up monitoring with CloudWatch.
+* Containerized services with Docker, ran them on Kubernetes, and optimized performance using Redis caching.
+* Wrote 70+ API tests using pytest and integrated them into CI/CD pipelines with GitHub Actions.
+
+### Software Developer Intern @ AnDnR Soft Solutions
+*Chennai, India | Dec 2021 - Jun 2022*
+
+* Built a real-time boat monitoring app using Flutter and IoT devices.
+* Created a responsive landing page with Next.js and Tailwind CSS, reaching over 1,000 users.
+* Engineered GPS-based geo-fencing alerts using Node.js and GraphQL, cutting theft risk by 66%.
+
+### Machine Learning Engineer Intern @ Verzeo Edutech
+*Chennai, India | Jun 2020 - Aug 2020*
+
+* Built a satellite image classifier with ResNet, achieving 89% precision.
+* Designed a fast image search pipeline using LSH and PageRank, improving query performance by 25%.
+
+
+## Professional Goals 🚀
+
+* **Build Real Impact:** Create systems and tools that solve actual problems for people.
+* **Go Deeper:** Keep growing in distributed systems, cloud infrastructure, and applied AI.
+* **Stay Curious:** Always learning, building, and exploring new technologies that challenge me.
+
 
 ## Connect with Me 📬  
 - 🔗 [LinkedIn](https://linkedin.com/in/akhash-senthilkumar)  
-- 🌐 [Portfolio](https://akhash16.github.io/)  
+- 🌐 [Portfolio](https://akhash.dev)  
 - 📫 [Email](mailto:akhash.sk16@gmail.com)  
-
-I’m eager to collaborate on projects at the intersection of technology and societal impact. Let’s build something amazing together! 🌍
